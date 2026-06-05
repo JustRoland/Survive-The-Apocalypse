@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dcb1d00a48156d4ab15b70340a56f16, type: 3}
+  m_Name: Controls
+  m_EditorClassIdentifier: Assembly-CSharp::TaskListScriptableObject
+  type: 1
+  tasks:
+  - {fileID: 11400000, guid: 9fea5ed0cad2c5649b7f1424dfff7e1b, type: 2}
+  - {fileID: 11400000, guid: 62d698467120e8b4fb2c7254d40a1b09, type: 2}
+  - {fileID: 11400000, guid: 2062e4f42ed890e45aba3a18d0ee65aa, type: 2}
+  - {fileID: 11400000, guid: 70da3925f6b17b84c80c3a6a9748a5a4, type: 2}
+  - {fileID: 11400000, guid: d9ae16b955a1ec046bb522e4ed66d632, type: 2}
+  - {fileID: 11400000, guid: e46d1cd001c43dd469a8811235859070, type: 2}
+  - {fileID: 11400000, guid: 2c6347941fd29124ea124ae1e6763f12, type: 2}
+  - {fileID: 11400000, guid: efc40fd0eded33d44822ba18319d5659, type: 2}
+  - {fileID: 11400000, guid: 9334ef8716ad46e47b261e168ea6d042, type: 2}

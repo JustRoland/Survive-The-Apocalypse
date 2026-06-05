@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dcb1d00a48156d4ab15b70340a56f16, type: 3}
+  m_Name: Humble Beginnings
+  m_EditorClassIdentifier: Assembly-CSharp::TaskListScriptableObject
+  type: 1
+  tasks:
+  - {fileID: 11400000, guid: 2057507715c8a5d40b24257e2c32460d, type: 2}
+  - {fileID: 11400000, guid: 0273dbfe06fd04142adf4c3c49372d6b, type: 2}
+  - {fileID: 11400000, guid: e342f362bbdbc6d48b60f30d2f670a1d, type: 2}
+  - {fileID: 11400000, guid: 90c84904ef667da4e9c38fabbaccf3dd, type: 2}
+  - {fileID: 11400000, guid: 5be5412bcb6577c44a2bd5cfede69b66, type: 2}
+  - {fileID: 11400000, guid: d08296c5e642bcb4cbf8541dad89e5b5, type: 2}
+  - {fileID: 11400000, guid: 80437794a20efb94aabd9df6c280d6d5, type: 2}
+  - {fileID: 11400000, guid: 920134d0c104cc4479a1dbf82f9e448a, type: 2}
+  - {fileID: 11400000, guid: 7c1dad1ff9f088844b97ce841adf9068, type: 2}

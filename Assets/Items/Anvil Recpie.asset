@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1084394512ec50d458ab6a2a2baf126d, type: 3}
+  m_Name: Anvil Recpie
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeScriptableObject
+  item: {fileID: 11400000, guid: 30fc44dd674532e4eb72f4ccc7614215, type: 2}
+  amount: 1
+  requiredItems:
+  - item: {fileID: 11400000, guid: 02262c7aea5d53c469dd20d89eea0479, type: 2}
+    amount: 30
+  - item: {fileID: 11400000, guid: ac0659f0c86bc0946b062d63b60f819e, type: 2}
+    amount: 15
+  task: {fileID: 11400000, guid: d08296c5e642bcb4cbf8541dad89e5b5, type: 2}
